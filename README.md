@@ -2,7 +2,8 @@
 
 This Python script applies a grayscale (black & white) mean filter to an image using PIL and NumPy. It reduces noise by averaging pixel intensities in a user-defined kernel neighborhood. Useful for image enhancement in fields like computer vision, medical imaging, and digital photography. 
 
-Initially created for exploring Computer Graphics and it's concepts; and hence the script employs CG techniques like image representation as arrays, convolution-based filtering, and boundary-aware processing to smooth a grayscale image, demonstrating basic image processing concepts used in computer graphics. 
+## Why I Built This
+To understand basic computer vision, automation scripting and how filters transform pixel data. Hence the script employs CG techniques like image representation as arrays, convolution-based filtering and boundary-aware processing to smooth a grayscale image, demonstrating basic image processing concepts used in computer graphics.
 
 ## Features
 - Loads a color image and converts to grayscale.
